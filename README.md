@@ -255,3 +255,7 @@ public class DefaultQueryResourceDetail implements QueryResource {
 }
 ```
 如果某个新的业务身份没有实现自己的QueryResource，那么在执行到QueryResource节点时，具体走上述两个默认实现中的哪个，取决于当前执行的流程是结算首屏还是详情
+
+
+#### 关注我的微信公众号: 技术凌云，查看更多技术、架构和管理方面的文章。有任何想法和建议，欢迎交流~
+![qrcode_for_gh_876b36c60c22_258 (1)](https://github.com/zjuclh/spi-framework/assets/13410025/ecd26e27-6b59-4ba3-8823-bb99ff974650)
